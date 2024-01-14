@@ -1,0 +1,18 @@
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+# Compiled bytecode
+bin/
+
+# Package Files
+*.jar
+
+# Dependency Directories
+lib/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

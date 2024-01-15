@@ -1,3 +1,3 @@
-Programa que analisa dependÍncias de objetos ABAP. Primeiro, deve-se selecionar o arquivo HTML com as dependÍncias, depois, o arquivo TXT do resultado da tabela TADIR. Para ver os objetos do ambiente do cliente, basta dar CTRL A no ·rea de texto do programa das dependÍncias, ent„o dar CTRL + A, copiar e na SE16N, colocar a tabela como TADIR e em nome, abrir o match code e a pertar no bot„o de copy from clipboard. Para exportar o resultado da TADIR, clicar em em salvar como file local -> Sem formataÁ„o.
+Programa que analisa depend√™ncias de objetos ABAP. Primeiro, deve-se selecionar o arquivo HTML com as depend√™ncias, depois, o arquivo TXT do resultado da tabela TADIR. Para ver os objetos do ambiente do cliente, basta clicar na √°rea de texto do programa das depend√™ncias, ent√£o dar CTRL + A, copiar e na SE16N, colocar a tabela como TADIR e em nome, abrir o match code e a apertar o bot√£o de copy from clipboard. Para exportar o resultado da TADIR, clicar em em salvar como file local -> Sem formata√ß√£o.
 
-O programa a ser executado È o Analisador de Dependencias.jar
+O programa a ser executado √© o Analisador de Dependencias.jar
